@@ -1,0 +1,39 @@
+.nav {
+  margin-bottom: 10px;
+}
+span {
+  color: #ff1e00;
+}
+.form-control {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid#ff1e00;
+  border-radius: 0;
+}
+.form-control:focus {
+  box-shadow: none;
+  border-bottom: 1px solid #ff1e00;
+}
+.btn {
+  opacity: 0.8;
+  background-color: #ff1e00;
+  border: 1px solid#ff1e00;
+  color: #ffffff;
+  border-radius: 50px;
+}
+.btn:focus {
+  box-shadow: none;
+}
+.btn:hover {
+  color: #ffffff;
+}
+.list-group-item {
+  background-color: transparent;
+  border: 1px solid #ff1e00;
+}
+.del {
+  margin-bottom: 10px;
+}
+.fas {
+  cursor: pointer;
+}
